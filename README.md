@@ -1,4 +1,4 @@
-# 🌤️ Weather App 
+# 🌤️ Weather Application 
 
 A sleek and responsive weather application that provides real-time weather updates using a weather API. Built with modern web technologies for an intuitive user experience across all devices.
 
